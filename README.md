@@ -12,10 +12,8 @@ Elbette kafanızda şu soru oluşmuş olabilir; "2024'te kullandığımız taray
 
 Babel'ı tanıdımıza göre babel'ı kullanmaya başlayalım.
 
-## Babel modülünü kullanmak için projemize indirmemiz gereken modüller
-
 ### Adım 1
-
+Babel modülünü kullanmak için projemize indirmemiz gereken modüller şunlardır;
 1. @babel/cli
     > bu modül komut satırı arayüzünden (comand line interface) babel'ı kullanmanızı sağlar.
 2. @babel/core
@@ -25,6 +23,7 @@ Babel'ı tanıdımıza göre babel'ı kullanmaya başlayalım.
 4. @babel/preset-env
     > bu modül ECMAScript versiyonlarının presetlerini içinde barındıran bir modüldür. Uygun preset seçilip ES5'e dönüşümü yapılır.
 
+Bütün bu modülleri indirmeniz için gereken komut:
 ```
 npm install @babel/cli @babel/core babel-polyfill @babel/preset-env --save-dev
 ```
