@@ -97,7 +97,7 @@ babel src --out-dir lib
 }
 ```
 
-> Artık konsol ekranında `npm run buid` yazdığınız zaman kısa yol komudunuz çalışmış olacaktır.
+> Artık konsol ekranına `npm run buid` yazdığınız zaman kısa yol komutunuz çalışmış olacaktır.
 
 ### Adım 5 (Son)
 
