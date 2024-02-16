@@ -1,6 +1,6 @@
 # Babel
 
-[Babel](https://babeljs.io/) temelde yazdığımız modern javascript kodlarını ES5 versiyonuna çeviren bir modüldür. Bu bizlere güncel olmayan tarayıcılarda desteklenmeyen ES6+ versiyon kodlarının çalışabilir olmasını sağlar çünkü babel bizim için ES5'e çevirme işlemi yapar ve bu kodlar tüm tarayıcılar tarafından desteklenir (Internet Explorer 11 dahil).
+[Babel](https://babeljs.io/) temelde yazdığımız modern javascript kodlarını ES5 (2009) versiyonuna çeviren bir modüldür. Bu bizlere güncel olmayan tarayıcılarda desteklenmeyen ES6+ versiyon özelliklerin çalışabilir olmasını sağlar. Babel bizim için ES5'e çevirme işlemi yapar ve bu kodlar tüm tarayıcılar tarafından desteklenir (Internet Explorer 11 dahil).
 
 > dipnot: [bu web sayfasından](https://compat-table.github.io/compat-table) ECMAScript tarayıcı desteklerine bakabilirsiniz
 
